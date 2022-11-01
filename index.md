@@ -4,3 +4,4 @@
 #### THE COURSE I OPTED IS COMPUTER SCIENCE WITH CY
 ##### INTRODUCTION TO GITHUB
 ###### TASK 3
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
